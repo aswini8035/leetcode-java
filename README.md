@@ -14,6 +14,6 @@ Java solutions to LeetCode problems (Easy, Medium, Hard) with clean code.
 
 ## 📈 Progress
 
-- ✅ Easy: 30+ problems
-- ✅ Medium: 50+ problems
-- ✅ Hard: 10+ problems
+- ✅ Easy: Actively solving and refining foundational problems
+- ✅ Medium: Building fluency in intermediate algorithms and data structures
+- ✅ Hard: Tackling advanced challenges for deeper mastery
